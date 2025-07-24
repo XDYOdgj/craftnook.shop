@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://craftnook.shop/sitemap.xml
